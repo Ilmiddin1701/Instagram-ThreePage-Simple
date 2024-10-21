@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Instagram(Copy)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="instagram">Instagram</string>
+    <string name="your_story">Your Story</string>
+    <string name="joshua_l">joshua_l ☑️</string>
+    <string name="tokyo_japan">Tokyo, Japan</string>
+    <string name="liked_by">Liked by</string>
+    <string name="craig_love">craig_love</string>
+    <string name="and">and</string>
+    <string name="_44_686_others">44,686 others</string>
+    <string name="the_game_in_japan_was_amazing_and_i_want_to_share_some_photos">The game in Japan was amazing and I want to share some photos</string>
+    <string name="jacob_w">jacob_w</string>
+    <string name="_54">54</string>
+    <string name="posts">Posts</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="_834">834</string>
+    <string name="_162">162</string>
+    <string name="jacob_west">Jacob West</string>
+    <string name="pixsellz">\@pixsellz</string>
+    <string name="digital_goodies_designer">Digital goodies designer</string>
+    <string name="everything_is_designed">Everything is designed.</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="plus">+</string>
+    <string name="New">New</string>
+    <string name="friends">Friends</string>
+    <string name="count">Count</string>
+</resources>

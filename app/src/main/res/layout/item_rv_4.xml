@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/image1"
+    android:layout_width="140dp"
+    android:layout_margin="1dp"
+    app:strokeColor="@color/black"
+    app:cardCornerRadius="0dp"
+    app:strokeWidth="1.5dp"
+    android:backgroundTint="@color/white"
+    android:layout_height="160dp">
+
+    <TextView
+        android:id="@+id/tvItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/count"
+        android:layout_gravity="center"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="@color/black" />
+</com.google.android.material.card.MaterialCardView>
